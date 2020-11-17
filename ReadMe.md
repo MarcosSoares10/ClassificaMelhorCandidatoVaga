@@ -1,5 +1,5 @@
 # IBM_BEHINDTHECODE_2020
-- [Descricao Desafio 4](https://github.com/maratonadev-br/desafio-4-2020) | ALGAR (Portuguese)
+- [Description](https://github.com/maratonadev-br/desafio-4-2020) | ALGAR (Portuguese)
 
 
 
