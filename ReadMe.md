@@ -1,8 +1,8 @@
 # IBM_BEHINDTHECODE_2020
-- [Descricao Desafio 4](https://github.com/maratonadev-br/desafio-4-2020) | ALGAR
+- [Descricao Desafio 4](https://github.com/maratonadev-br/desafio-4-2020) | ALGAR (Portuguese)
 
 
 
-# Este Repositório Contém:
-- O código utilizado para estudo e classificação proposto
-- Este desafio tem como objetivo criar um modelo capaz de encontrar o melhor candidato de acordo com as variáveis do dataset fornecido.
+# This Repository Contains:
+- The code used for the study and classification proposed
+- This challenge aims to create a model capable of finding the best candidate according to the variables in the dataset provided.
